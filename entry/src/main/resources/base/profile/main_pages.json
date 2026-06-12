@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/RoomList",
+    "pages/GameMain",
+    "pages/Level2",
+    "pages/Level3",
+    "pages/Level4",
+    "pages/Success"
+  ]
+}
