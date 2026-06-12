@@ -164,7 +164,7 @@ const Level4Data: GameNodeConfig[] = [
 // =================================================================
 @Entry
 @Component
-struct Level4 {
+struct Level3 {
   @StorageLink('unlockedLevels') unlockedLevels: number = 1;
   @StorageLink('myAchievements') myAchievements: string[] = [];
 
